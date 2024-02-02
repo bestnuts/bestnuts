@@ -40,7 +40,7 @@ Steam Raft In Minecraft Java Edition 1.20.2
 
 ### MineClimbing
 Original by Bestnuts idea   
-WIP   
+[Link](https://github.com/bestnuts/MineClimbing)
 
 ### MineTerraforming
 Original by Bestnuts idea   
