@@ -8,8 +8,8 @@ Q4: 왜 닉네임이 '베스트견과류' 이신가요?
 =프로젝트=   
 MineOfDuty: 제작중   
 MineRaft: 완성   
-MineClimbing: 제작중   
-MineTerraforming: 준비중   
+MineClimbing: 완성   
+MineTerraforming: 제작중   
 
 ## 평범한 질문   
 
