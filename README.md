@@ -9,7 +9,7 @@ Q4: 왜 닉네임이 '베스트견과류' 이신가요?
 MineOfDuty: 제작중   
 MineRaft: 완성   
 MineClimbing: 완성   
-MineTerraforming: 제작중   
+Terraforming: 제작중   
 
 ## 평범한 질문   
 
@@ -30,9 +30,9 @@ A4: 저도 잘 모릅니다. 그냥 어감이 좋아서 했나 보네요.
 ### MineOfDuty
 Minecraft Java Edition First Person Shooting Multiplay Server   
 시즌   
-- MineOfDuty WW3 Version 1.17.1
-- MineOfDuty WW1 Version 1.19.4
-- MineOfDuty Last Version 1.20.2
+- MineOfDuty WW3 Version 1.17.1 Close
+- MineOfDuty WW1 Version 1.19.4 Close
+- MineOfDuty Last Version 1.20.2 WIP
 
 ### MineRaft
 Steam Raft In Minecraft Java Edition 1.20.2   
@@ -42,6 +42,6 @@ Steam Raft In Minecraft Java Edition 1.20.2
 Original by Bestnuts idea   
 [Link](https://github.com/bestnuts/MineClimbing)
 
-### MineTerraforming
+### Terraforming
 Original by Bestnuts idea   
 WIP
