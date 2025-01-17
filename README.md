@@ -32,7 +32,7 @@ Minecraft Java Edition First Person Shooting Multiplay Server
 시즌   
 - MineOfDuty WW3 Version 1.17.1 Close
 - MineOfDuty WW1 Version 1.19.4 Close
-- MineOfDuty Last Version 1.20.4 WIP
+- MineOfDuty Version 1.21.3 WIP
 
 ### MineRaft
 Steam Raft In Minecraft Java Edition 1.20.2   
